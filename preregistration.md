@@ -69,7 +69,7 @@ Five participants with normal or corrected-to-normal vision will complete the st
 - **Accuracy**: Whether the participant correctly identified the larger square
 - **Stimulus difference**: The difference in area between comparison and reference squares (in sq.mm)
 
-## Analysis Plan
+## Analysis Plan!
 
 ### Primary Analysis
 
